@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Thank you for coming. There's not much here yet, but I'm working on going through my private repositories for things that:
+
+* I can share
+* I want to share
+
+I'll also be writing a lot more code as I've been getting more serious about my programming. Check back soon!
+
 <!--
 **syntheticdrek/syntheticdrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
